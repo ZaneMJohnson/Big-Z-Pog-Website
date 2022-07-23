@@ -1,7 +1,5 @@
-# Big-Z-Pog-Website
-Welcome to Big Z Pog Website!
+# Big-Z-Pog-Website 
+## Hello and welcome to my website!
 
-Follow the link to check out my awesome website!
-
-Here is a screenshot of what my page !
+Here are some screenshots of my website!
 
