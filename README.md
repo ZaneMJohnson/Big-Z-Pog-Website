@@ -3,3 +3,4 @@
 
 Here are some screenshots of my website!
 
+Screenshots of my website can be found on the home page of Big-Z-Pog-Website
