@@ -3,6 +3,6 @@
 
 Here are some screenshots of my website!
 
-!(./assets/images/Big-Z-Website Preview Sceenshot.png)
+![photo](Big-Z-Website/assets/images/Big-Z-Website Preview Sceenshot.png)
 
 Screenshots of my website can be found on the home page of Big-Z-Pog-Website
