@@ -1,8 +1,14 @@
 # Big-Z-Pog-Website 
 ## Hello and welcome to my website!
 
-Here are some screenshots of my website!
+Here is a **screenshot** of my website!
 
-(./assets/images/Big-Z-Website Preview Sceenshot.png)
+![Webpage](./assets/images/readme-images/big-z-website-preview-sceenshot.png)
 
-Screenshots of my website can be found on the home page of Big-Z-Pog-Website
+### Description:
+When the user clicks on the headers in the heading of the webpage, the UI will smoothly scroll down to the user requested page.
+This webpage informs users about search engine optimization, online reputation management, and social media marketing. While
+also informing users of vocabulary like Lead Generation, Brand Awareness, and Cost Management.
+
+### Running Website:
+Please use the github provided webpage deployable feature in this repository, or simple follow this !link
